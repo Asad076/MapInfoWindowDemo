@@ -1,0 +1,4 @@
+<resources>
+   <string name="app_name">Map Info Window Demo</string>
+   <string name="google_map_api_key">AIzaSyC4DltEDNqstZvEX3UFM_RcSFCJb3qiMes</string>
+</resources>
